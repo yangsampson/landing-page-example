@@ -67,7 +67,7 @@ export default function LandingPage() {
             </div>
             <div className="relative h-[300px] lg:h-[400px]">
               <img 
-                src="Image/StoreBBRX.jpg" 
+                src="image/StoreBBRX.jpg" 
                 alt="BBRx Plus Pharmacy Storefront" 
                 className="rounded-3xl h-full w-full object-cover shadow-2xl"
               />
