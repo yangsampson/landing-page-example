@@ -27,7 +27,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="/image/LogoBBRX.png" 
+              src="/image/LogoBBRx.png" 
               alt="BBRx Plus Pharmacy Logo" 
               className="h-16 w-auto rounded-xl object-contain"
             />
@@ -67,7 +67,7 @@ export default function LandingPage() {
             </div>
             <div className="relative h-[300px] lg:h-[400px]">
               <img 
-                src="Image/StoreBBRX.jpg" 
+                src="Image/StoreBBRx.jpg" 
                 alt="BBRx Plus Pharmacy Storefront" 
                 className="rounded-3xl h-full w-full object-cover shadow-2xl"
               />
